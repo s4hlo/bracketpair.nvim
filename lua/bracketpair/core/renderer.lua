@@ -8,7 +8,7 @@ local nsid_opts = {
 
 ---@enum
 local line_guides = {
-	' ', ' ', '▕▏', ' ', ' '
+	' ', ' ', '│', ' ', ' '
 }
 
 local M = {}
